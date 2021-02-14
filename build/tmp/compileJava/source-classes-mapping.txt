@@ -17,12 +17,12 @@ com/jojoldu/book/springboot/web/dto/PostsSaveRequestDto.java
  com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/jojoldu/book/springboot/web/dto/PostsResponseDto.java
  com.jojoldu.book.springboot.web.dto.PostsResponseDto
-com/jojoldu/book/springboot/web/PostApiController.java
- com.jojoldu.book.springboot.web.PostApiController
-com/jojoldu/book/springboot/domain/posts/PostsRepository.java
- com.jojoldu.book.springboot.domain.posts.PostsRepository
 com/jojoldu/book/springboot/web/dto/PostsListResponseDto.java
  com.jojoldu.book.springboot.web.dto.PostsListResponseDto
+com/jojoldu/book/springboot/domain/posts/PostsRepository.java
+ com.jojoldu.book.springboot.domain.posts.PostsRepository
+com/jojoldu/book/springboot/web/PostApiController.java
+ com.jojoldu.book.springboot.web.PostApiController
 com/jojoldu/book/springboot/web/IndexController.java
  com.jojoldu.book.springboot.web.IndexController
 com/jojoldu/book/springboot/service/PostsService.java
